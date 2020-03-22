@@ -1,4 +1,4 @@
-﻿pid,COPD without eosinophilia,COPD with eosinophilia,Asthma,Lower respiratory tract infection,Tuberculosis,Heart failure,Common cold
+﻿pid,COPD w/o eosinophilia,COPD w/ eosinophilia,Asthma,LRTI,Tuberculosis,Heart failure,Common cold
 101001,0,0,0,0,0,0,0
 101002,0,0,0,0,0,0,0
 101003,0,0,0,0,0,0,1
