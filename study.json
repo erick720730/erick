@@ -1,0 +1,13 @@
+{
+	"file": "https://www.dropbox.com/s/1sij82w2ki8stj7/aaa.csv?dl=0",
+	"name": "study",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "pid" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 7 }
+	]
+}
